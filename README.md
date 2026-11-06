@@ -10,6 +10,7 @@ Software Engineer | Founder & Lead Architect at Abaixo | Full-Stack, Mobile (Flu
 ```
 
 [![Abaixo Online](https://img.shields.io/badge/Abaixo.online-13261C?style=flat-square&logo=vercel&logoColor=white)](https://abaixo.online)
+[![FlowVoice](https://img.shields.io/badge/FlowVoice-10B981?style=flat-square&logo=windows&logoColor=white)](https://flowvoice.abaixo.online)
 [![WantQuiz](https://img.shields.io/badge/WantQuiz.com-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://wantquiz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman50/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdulrahman50ab)
@@ -110,15 +111,15 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 - **Stack:** `React 18` `TypeScript` `Node.js` `Express 5` `PostgreSQL` `Drizzle ORM` `WebSockets` `Gemini AI` `Capacitor` `Tailwind CSS`
 - **Links:** [Live Platform (wantquiz.com)](https://wantquiz.com) *(Private Enterprise Codebase)*
 
-#### FlowVoice AI — Windows Voice Dictation & Roman Urdu Translation OS
-- **Overview:** Native Windows 10/11 desktop background AI voice dictation utility with sub-180ms latency, native Roman Urdu transcription, and Bring Your Own Key (BYOK) privacy.
+#### FlowVoice — Windows AI Voice Dictation & Roman Urdu Translation OS
+- **Overview:** Native Windows 10 & 11 background AI voice dictation and Roman Urdu to English translation utility with sub-180ms latency, native cursor injection, and Bring Your Own Key (BYOK) privacy.
 - **Architecture & Technical Highlights:**
   - 16kHz WASAPI audio stream capture pipeline with a 28Hz subsonic DC rumble filter.
-  - Direct ultra-fast routing to Groq LPU Whisper Large v3 models, achieving sub-180ms median voice-to-cursor latency.
-  - Native Win32 hardware scan-code injection (`SendInput` with `AttachThreadInput` coupling) allowing direct cursor text insertion across any active window without losing focus.
+  - Direct ultra-fast routing to Groq LPU Whisper Large v3 models, achieving sub-180ms median voice-to-cursor turnaround.
+  - Native Win32 hardware scan-code injection (`SendInput` with `AttachThreadInput` thread coupling) enabling direct cursor text insertion across any active application without shifting focus.
   - Zero-telemetry BYOK architecture operating at $0 recurring costs.
 - **Stack:** `Python` `Groq Whisper Large v3` `Win32 API` `PySide6` `WASAPI` `SoundDevice`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab/wisprflow) | [Live Product (flowvoice.abaixo.online)](https://flowvoice.abaixo.online)
+- **Links:** [Live Product (flowvoice.abaixo.online)](https://flowvoice.abaixo.online) *(Private Codebase)*
 
 #### RestoCloud POS — Restaurant Management & Kitchen OS
 - **Overview:** Offline-first cloud POS and restaurant management ecosystem for dining rooms, cafes, and cloud kitchens with Kitchen Display (KDS) routing and real-time inventory deduction.
@@ -246,7 +247,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 
 ## Connect & Collaborate
 
-- **Live Platforms:** [abaixo.online](https://abaixo.online) | [wantquiz.com](https://wantquiz.com)
+- **Live Platforms:** [abaixo.online](https://abaixo.online) | [flowvoice.abaixo.online](https://flowvoice.abaixo.online) | [wantquiz.com](https://wantquiz.com)
 - **LinkedIn:** [linkedin.com/in/abdulrahman50](https://www.linkedin.com/in/abdulrahman50/)
 - **GitHub:** [github.com/Abdulrahman50ab](https://github.com/Abdulrahman50ab)
 - **Email:** [abdulrahman50ab@gmail.com](mailto:abdulrahman50ab@gmail.com)
