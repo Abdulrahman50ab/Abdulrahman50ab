@@ -223,7 +223,7 @@ I am a Software Engineer focused on architecting resilient, production-grade sys
 - **LinkedIn:** [linkedin.com/in/abdulrahman50](https://www.linkedin.com/in/abdulrahman50/)
 - **GitHub:** [github.com/Abdulrahman50ab](https://github.com/Abdulrahman50ab)
 - **Email:** [abdulrahman50ab@gmail.com](mailto:abdulrahman50ab@gmail.com)
-- **Location:** Islamabad / Rawalpindi, Pakistan
+- **Location:** Lahore, Pakistan
 
 ---
 <div align="center">
