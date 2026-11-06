@@ -210,9 +210,9 @@ I am a Software Engineer focused on architecting resilient, production-grade sys
 
 <div align="center">
 
-<!-- GitHub Stats Widgets: Uses github-readme-stats with dark minimalist theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman50ab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman50ab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<!-- GitHub Stats & Streak Widgets: Uses high-availability TokyoNight theme -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulrahman50ab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=Abdulrahman50ab&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
 </div>
 
