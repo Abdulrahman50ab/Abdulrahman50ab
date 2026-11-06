@@ -76,8 +76,8 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 ![Cloud Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive_DB-FFD700?style=flat-square&logoColor=black)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive_DB-FFD700?style=flat-square&logo=black)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=black)
 
 ### Cloud, DevOps & Infrastructure
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -91,7 +91,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 
 ## Flagship Products & Production Projects
 
-### 1. Live Platforms & Commercial SaaS
+### 1. Live Commercial Platforms & SaaS
 
 #### Abaixo — Official Software House Platform & Digital Ecosystem
 - **Overview:** Flagship company web platform for Abaixo Software House, engineered for performance, editorial visual polish, responsive ergonomics, and high-conversion SEO.
@@ -101,7 +101,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Interactive bento decks, dynamic capabilities matrices, and dual-tier auto-collapsing navigation bars.
   - Serverless contact pipeline utilizing Nodemailer and Resend API.
 - **Stack:** `Next.js 14` `React 18` `TypeScript` `Tailwind CSS` `Framer Motion` `Lenis` `Firebase` `Vercel`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab/Abaixo) | [Live Platform (abaixo.online)](https://abaixo.online)
+- **Links:** [Live Platform (abaixo.online)](https://abaixo.online) · *Private Commercial Codebase*
 
 #### WantQuiz — Real-Time Competitive Quiz & AI Assessment Platform
 - **Overview:** Full-scale competitive multiplayer quiz and AI assessment platform deployed live at [wantquiz.com](https://wantquiz.com), supporting real-time room battles, automated AI generation, and multi-platform mobile apps.
@@ -111,7 +111,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Integrated AI question generation via Gemini API (`@google/genai`) and automated test integrity checks with MediaPipe and TensorFlow vision models.
   - Cross-platform mobile ecosystem utilizing Capacitor for native Android (APK/AAB) and iOS deployment alongside a responsive React 18 web application.
 - **Stack:** `React 18` `TypeScript` `Node.js` `Express 5` `PostgreSQL` `Drizzle ORM` `WebSockets` `Gemini AI` `Capacitor` `Tailwind CSS`
-- **Links:** [Live Platform (wantquiz.com)](https://wantquiz.com) *(Private Enterprise Codebase)*
+- **Links:** [Live Platform (wantquiz.com)](https://wantquiz.com) · *Private Enterprise Codebase*
 
 #### FlowVoice — Windows AI Voice Dictation & Roman Urdu Translation OS
 - **Overview:** Native Windows 10 & 11 background AI voice dictation and Roman Urdu to English translation utility with sub-180ms latency, native cursor injection, and Bring Your Own Key (BYOK) privacy.
@@ -121,17 +121,17 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Native Win32 hardware scan-code injection (`SendInput` with `AttachThreadInput` thread coupling) enabling direct cursor text insertion across any active application without shifting focus.
   - Zero-telemetry BYOK architecture operating at $0 recurring costs.
 - **Stack:** `Python` `Groq Whisper Large v3` `Win32 API` `PySide6` `WASAPI` `SoundDevice`
-- **Links:** [Live Product (flowvoice.abaixo.online)](https://flowvoice.abaixo.online) *(Private Codebase)*
+- **Links:** [Live Product (flowvoice.abaixo.online)](https://flowvoice.abaixo.online) · *Private Codebase*
 
 #### Pos-Restaurant (RestoCloud) — Restaurant Management & Cloud Kitchen OS
 - **Overview:** Offline-first multi-platform restaurant management and POS ecosystem developed in Flutter for Windows desktop and Android, paired with a cloud showcase platform at [resto.abaixo.online](https://resto.abaixo.online).
 - **Architecture & Technical Highlights:**
   - Offline-first local storage and sync engine guaranteeing 100% continuous order punching and billing during internet disconnects.
   - Real-time Kitchen Display System (KDS) bump bar station routing accelerating kitchen order fulfillment by 45%.
-  - Gram-accurate Bill of Materials (BOM) inventory deductions tied to menu recipe items.
+  - Gram-accurate Bill of Materials (BOM) recipe inventory deductions tied to menu recipe items.
   - Native Windows desktop integration with ESC/POS hardware thermal receipt printing, cash drawer kickers, and shift Z-reports.
 - **Stack:** `Flutter (Windows Desktop & Android)` `Dart` `Cloud Firestore` `Firebase Auth` `Provider` `ESC/POS Hardware` `Vercel`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab/Pos-Restaurant) | [Live Platform (resto.abaixo.online)](https://resto.abaixo.online)
+- **Links:** [Live Platform (resto.abaixo.online)](https://resto.abaixo.online) · *Private Commercial Codebase*
 
 ---
 
@@ -145,7 +145,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Gemini 1.5 Flash structured JSON schema outputs with human-in-the-loop review checkpoints.
   - High-performance REST endpoints with Express.js and Drizzle ORM connected to a responsive React management dashboard.
 - **Stack:** `LangGraph` `Gemini API` `pgvector` `PostgreSQL` `Drizzle ORM` `Express.js` `React`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab/Docflow) | [Live Platform (docflow-manager.vercel.app)](https://docflow-manager.vercel.app)
+- **Links:** [Live Platform (docflow-manager.vercel.app)](https://docflow-manager.vercel.app) · *Private Enterprise Codebase*
 
 #### ProctorAI — Automated Exam Integrity & Computer Vision Proctoring
 - **Overview:** Continuous multi-modal exam integrity monitoring platform designed to eliminate remote academic test misconduct through real-time telemetry.
@@ -154,7 +154,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Asynchronous FastAPI streaming microservices processing batch video frames with sub-200ms latency.
   - React test-taker client with event handlers capturing tab-switching, fullscreen exits, and peripheral disconnections.
 - **Stack:** `Python` `OpenCV` `FastAPI` `Deep Learning` `React` `Computer Vision`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab)
+- **Links:** [Repository](https://github.com/Abdulrahman50ab/proctorai)
 
 #### Jarvis AI Assistant — Systems Automation & Conversational Intelligence
 - **Overview:** Personal systems orchestration assistant capable of controlling local desktop environments, executing scripts, and interfacing with OpenAI and AgentRouter LLMs.
@@ -170,7 +170,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Intent classification and entity recognition pipelines trained on university policies and FAQ knowledge bases.
   - Grounded retrieval mechanism reducing repetitive administrative office queries by over 40%.
 - **Stack:** `Python` `NLP` `Intent Classification` `Knowledge Retrieval` `FastAPI`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab)
+- **Links:** *Private University Codebase*
 
 ---
 
@@ -183,7 +183,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Automated structured clinical PDF report generator enabling instant data sharing with healthcare providers.
   - Offline-first local data persistence ensuring full telemetry access without continuous network connectivity.
 - **Stack:** `Flutter` `Dart` `Vector Graphics` `PDF Engine` `Local Storage`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab/blood-monitor-product)
+- **Links:** *Private Codebase*
 
 #### TeamFlow — Multi-Platform Real-Time Collaboration Suite
 - **Overview:** Unified team communication and document coordination workspace operating simultaneously across iOS, Android, Desktop (Electron / Flutter Windows), and Web.
@@ -192,7 +192,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Reactive state management maintaining 60fps rendering across heterogeneous screen factors.
   - Local persistence and synchronization queues guaranteeing zero data loss during network disruptions.
 - **Stack:** `Flutter` `Dart` `Firebase` `Cloud Functions` `Electron` `WebSockets`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab)
+- **Links:** *Private Codebase*
 
 #### CareSync (MediFlow) — Cloud-Native Healthcare & Patient Management
 - **Overview:** Mobile healthcare management platform providing teleconsultation scheduling, patient records management, and real-time vital tracking.
@@ -201,7 +201,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Automated medication reminder queues backed by Firebase Cloud Messaging and Cloud Functions.
   - Encrypted local caching (SQLite/Hive) enabling practitioners to draft notes and review patient charts offline.
 - **Stack:** `Flutter` `Dart` `Firebase` `Cloud Messaging` `Hive` `SQLite` `Clean Architecture`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab)
+- **Links:** *Private Codebase*
 
 ---
 
@@ -214,7 +214,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Multi-stage physical verification pipeline with geo-tagged photographic audits and cryptographic verification badges.
   - Interactive map-based radius searches utilizing Google Maps Platform APIs.
 - **Stack:** `Flutter` `React` `Node.js` `PostgreSQL` `Google Maps Platform` `Firebase`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab)
+- **Links:** *Academic FYP · Private Codebase*
 
 #### HabitFlow — Personal Habit & Productivity Tracking Platform
 - **Overview:** Clean, minimalist personal accountability and behavioral habit telemetry platform.
