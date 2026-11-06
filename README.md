@@ -13,6 +13,7 @@ Software Engineer | Founder & Lead Architect at Abaixo | Full-Stack, Mobile (Flu
 [![FlowVoice](https://img.shields.io/badge/FlowVoice-10B981?style=flat-square&logo=windows&logoColor=white)](https://flowvoice.abaixo.online)
 [![RestoCloud POS](https://img.shields.io/badge/RestoCloud_POS-F59E0B?style=flat-square&logo=flutter&logoColor=white)](https://resto.abaixo.online)
 [![WantQuiz](https://img.shields.io/badge/WantQuiz.com-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://wantquiz.com)
+[![DocFlow AI](https://img.shields.io/badge/DocFlow_AI-02569B?style=flat-square&logo=vercel&logoColor=white)](https://docflow-manager.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman50/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdulrahman50ab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahman50ab@gmail.com)
@@ -144,7 +145,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Gemini 1.5 Flash structured JSON schema outputs with human-in-the-loop review checkpoints.
   - High-performance REST endpoints with Express.js and Drizzle ORM connected to a responsive React management dashboard.
 - **Stack:** `LangGraph` `Gemini API` `pgvector` `PostgreSQL` `Drizzle ORM` `Express.js` `React`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab/Docflow)
+- **Links:** [Repository](https://github.com/Abdulrahman50ab/Docflow) | [Live Platform (docflow-manager.vercel.app)](https://docflow-manager.vercel.app)
 
 #### ProctorAI — Automated Exam Integrity & Computer Vision Proctoring
 - **Overview:** Continuous multi-modal exam integrity monitoring platform designed to eliminate remote academic test misconduct through real-time telemetry.
@@ -248,7 +249,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 
 ## Connect & Collaborate
 
-- **Live Platforms:** [abaixo.online](https://abaixo.online) | [flowvoice.abaixo.online](https://flowvoice.abaixo.online) | [resto.abaixo.online](https://resto.abaixo.online) | [wantquiz.com](https://wantquiz.com)
+- **Live Platforms:** [abaixo.online](https://abaixo.online) | [docflow-manager.vercel.app](https://docflow-manager.vercel.app) | [flowvoice.abaixo.online](https://flowvoice.abaixo.online) | [resto.abaixo.online](https://resto.abaixo.online) | [wantquiz.com](https://wantquiz.com)
 - **LinkedIn:** [linkedin.com/in/abdulrahman50](https://www.linkedin.com/in/abdulrahman50/)
 - **GitHub:** [github.com/Abdulrahman50ab](https://github.com/Abdulrahman50ab)
 - **Email:** [abdulrahman50ab@gmail.com](mailto:abdulrahman50ab@gmail.com)
