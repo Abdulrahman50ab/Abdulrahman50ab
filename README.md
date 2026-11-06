@@ -10,6 +10,7 @@ Software Engineer | Founder & Lead Architect at Abaixo | Full-Stack, Mobile (Flu
 ```
 
 [![Abaixo Online](https://img.shields.io/badge/Abaixo.online-13261C?style=flat-square&logo=vercel&logoColor=white)](https://abaixo.online)
+[![WantQuiz](https://img.shields.io/badge/WantQuiz.com-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://wantquiz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman50/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdulrahman50ab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahman50ab@gmail.com)
@@ -22,8 +23,8 @@ Software Engineer | Founder & Lead Architect at Abaixo | Full-Stack, Mobile (Flu
 
 I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.online](https://abaixo.online)), focused on building resilient, high-throughput software across three core engineering domains:
 1. **Cloud-Native Web & SaaS Architecture:** Engineering production-grade platforms with Next.js (App Router), TypeScript, React, Tailwind CSS, Lenis kinetic physics, and serverless cloud runtimes.
-2. **Cross-Platform Mobile & Desktop Systems:** Architecting reactive, 60fps applications across Android, iOS, Windows, and macOS utilizing Flutter, Dart, Electron, and local-first encrypted persistence.
-3. **Agentic AI & Low-Latency Audio OS:** Engineering real-time speech-to-text engines (sub-180ms Groq LPUs, WASAPI streams, Win32 hardware cursor injection), multi-agent orchestration (LangGraph), Dynamic RAG (pgvector), and computer vision pipelines (OpenCV).
+2. **Cross-Platform Mobile & Desktop Systems:** Architecting reactive, 60fps applications across Android, iOS, Windows, and macOS utilizing Flutter, Dart, Electron, Capacitor, and local-first encrypted persistence.
+3. **Agentic AI & Low-Latency Audio OS:** Engineering real-time speech-to-text engines (sub-180ms Groq LPUs, WASAPI streams, Win32 hardware cursor injection), multi-agent orchestration (LangGraph), Dynamic RAG (pgvector), and computer vision pipelines (OpenCV, MediaPipe).
 
 ---
 
@@ -43,6 +44,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Capacitor](https://img.shields.io/badge/Capacitor_Android_iOS-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Lenis](https://img.shields.io/badge/Lenis_Smooth_Scroll-000000?style=flat-square)
@@ -60,6 +62,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
 ![Dynamic RAG](https://img.shields.io/badge/Dynamic_RAG-24292E?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe_Vision-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Win32 SendInput](https://img.shields.io/badge/Win32_SendInput-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI Responses API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
@@ -85,7 +88,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 
 ## Flagship Products & Production Projects
 
-### 1. Company Platforms & SaaS Products
+### 1. Live Platforms & Commercial SaaS
 
 #### Abaixo — Official Software House Platform & Digital Ecosystem
 - **Overview:** Flagship company web platform for Abaixo Software House, engineered for performance, editorial visual polish, responsive ergonomics, and high-conversion SEO.
@@ -96,6 +99,16 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
   - Serverless contact pipeline utilizing Nodemailer and Resend API.
 - **Stack:** `Next.js 14` `React 18` `TypeScript` `Tailwind CSS` `Framer Motion` `Lenis` `Firebase` `Vercel`
 - **Links:** [Repository](https://github.com/Abdulrahman50ab/Abaixo) | [Live Platform (abaixo.online)](https://abaixo.online)
+
+#### WantQuiz — Real-Time Competitive Quiz & AI Assessment Platform
+- **Overview:** Full-scale competitive multiplayer quiz and AI assessment platform deployed live at [wantquiz.com](https://wantquiz.com), supporting real-time room battles, automated AI generation, and multi-platform mobile apps.
+- **Architecture & Technical Highlights:**
+  - Real-time WebSocket competition rooms supporting instant answer synchronization, concurrent countdown timers, and live leaderboard calculations.
+  - Express 5 backend powered by Drizzle ORM and PostgreSQL persistence with session-based security and rate-limited endpoints.
+  - Integrated AI question generation via Gemini API (`@google/genai`) and automated test integrity checks with MediaPipe and TensorFlow vision models.
+  - Cross-platform mobile ecosystem utilizing Capacitor for native Android (APK/AAB) and iOS deployment alongside a responsive React 18 web application.
+- **Stack:** `React 18` `TypeScript` `Node.js` `Express 5` `PostgreSQL` `Drizzle ORM` `WebSockets` `Gemini AI` `Capacitor` `Tailwind CSS`
+- **Links:** [Live Platform (wantquiz.com)](https://wantquiz.com) *(Private Enterprise Codebase)*
 
 #### FlowVoice AI — Windows Voice Dictation & Roman Urdu Translation OS
 - **Overview:** Native Windows 10/11 desktop background AI voice dictation utility with sub-180ms latency, native Roman Urdu transcription, and Bring Your Own Key (BYOK) privacy.
@@ -187,14 +200,6 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 - **Stack:** `Flutter` `Dart` `Firebase` `Cloud Messaging` `Hive` `SQLite` `Clean Architecture`
 - **Links:** [Repository](https://github.com/Abdulrahman50ab)
 
-#### WantQuiz — Full-Stack Real-Time Competitive Quiz Platform
-- **Overview:** Multiplayer real-time quiz assessment platform featuring a cross-platform Flutter mobile client and an administrative management portal.
-- **Architecture & Technical Highlights:**
-  - WebSocket-based competition rooms supporting live answer synchronization, synchronized countdown timers, and instant leaderboard calculations.
-  - RESTful APIs engineered with Express.js and MongoDB utilizing aggregation pipelines for user performance telemetry.
-- **Stack:** `Flutter` `Dart` `Node.js` `Express.js` `MongoDB` `WebSockets`
-- **Links:** [Repository](https://github.com/IntelliG-io/wantquiz-app)
-
 ---
 
 ### 4. Enterprise Solutions & Full-Stack Web
@@ -241,7 +246,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 
 ## Connect & Collaborate
 
-- **Live Platform:** [abaixo.online](https://abaixo.online)
+- **Live Platforms:** [abaixo.online](https://abaixo.online) | [wantquiz.com](https://wantquiz.com)
 - **LinkedIn:** [linkedin.com/in/abdulrahman50](https://www.linkedin.com/in/abdulrahman50/)
 - **GitHub:** [github.com/Abdulrahman50ab](https://github.com/Abdulrahman50ab)
 - **Email:** [abdulrahman50ab@gmail.com](mailto:abdulrahman50ab@gmail.com)
