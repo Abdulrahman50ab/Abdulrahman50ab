@@ -11,6 +11,7 @@ Software Engineer | Founder & Lead Architect at Abaixo | Full-Stack, Mobile (Flu
 
 [![Abaixo Online](https://img.shields.io/badge/Abaixo.online-13261C?style=flat-square&logo=vercel&logoColor=white)](https://abaixo.online)
 [![FlowVoice](https://img.shields.io/badge/FlowVoice-10B981?style=flat-square&logo=windows&logoColor=white)](https://flowvoice.abaixo.online)
+[![RestoCloud POS](https://img.shields.io/badge/RestoCloud_POS-F59E0B?style=flat-square&logo=flutter&logoColor=white)](https://resto.abaixo.online)
 [![WantQuiz](https://img.shields.io/badge/WantQuiz.com-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://wantquiz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman50/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdulrahman50ab)
@@ -121,15 +122,15 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 - **Stack:** `Python` `Groq Whisper Large v3` `Win32 API` `PySide6` `WASAPI` `SoundDevice`
 - **Links:** [Live Product (flowvoice.abaixo.online)](https://flowvoice.abaixo.online) *(Private Codebase)*
 
-#### RestoCloud POS — Restaurant Management & Kitchen OS
-- **Overview:** Offline-first cloud POS and restaurant management ecosystem for dining rooms, cafes, and cloud kitchens with Kitchen Display (KDS) routing and real-time inventory deduction.
+#### Pos-Restaurant (RestoCloud) — Restaurant Management & Cloud Kitchen OS
+- **Overview:** Offline-first multi-platform restaurant management and POS ecosystem developed in Flutter for Windows desktop and Android, paired with a cloud showcase platform at [resto.abaixo.online](https://resto.abaixo.online).
 - **Architecture & Technical Highlights:**
-  - Offline-first local storage and sync engine guaranteeing 100% continuous order punching during internet disconnects.
-  - Real-time Kitchen Display System (KDS) bump bar station routing accelerating kitchen turnaround by 45%.
-  - Gram-accurate Bill of Materials (BOM) recipe inventory deductions upon ticket punch.
-  - ESC/POS thermal receipt printing and shift cash drawer reconciliation.
-- **Stack:** `React` `TypeScript` `Tailwind CSS` `Cloud Firestore` `Offline Storage` `ESC/POS` `Vite`
-- **Links:** [Repository](https://github.com/Abdulrahman50ab/Pos-Restaurant) | [Live Demo (resto.abaixo.online)](https://resto.abaixo.online)
+  - Offline-first local storage and sync engine guaranteeing 100% continuous order punching and billing during internet disconnects.
+  - Real-time Kitchen Display System (KDS) bump bar station routing accelerating kitchen order fulfillment by 45%.
+  - Gram-accurate Bill of Materials (BOM) inventory deductions tied to menu recipe items.
+  - Native Windows desktop integration with ESC/POS hardware thermal receipt printing, cash drawer kickers, and shift Z-reports.
+- **Stack:** `Flutter (Windows Desktop & Android)` `Dart` `Cloud Firestore` `Firebase Auth` `Provider` `ESC/POS Hardware` `Vercel`
+- **Links:** [Repository](https://github.com/Abdulrahman50ab/Pos-Restaurant) | [Live Platform (resto.abaixo.online)](https://resto.abaixo.online)
 
 ---
 
@@ -247,7 +248,7 @@ I am a Software Engineer and Founder/Lead Architect at **Abaixo** ([abaixo.onlin
 
 ## Connect & Collaborate
 
-- **Live Platforms:** [abaixo.online](https://abaixo.online) | [flowvoice.abaixo.online](https://flowvoice.abaixo.online) | [wantquiz.com](https://wantquiz.com)
+- **Live Platforms:** [abaixo.online](https://abaixo.online) | [flowvoice.abaixo.online](https://flowvoice.abaixo.online) | [resto.abaixo.online](https://resto.abaixo.online) | [wantquiz.com](https://wantquiz.com)
 - **LinkedIn:** [linkedin.com/in/abdulrahman50](https://www.linkedin.com/in/abdulrahman50/)
 - **GitHub:** [github.com/Abdulrahman50ab](https://github.com/Abdulrahman50ab)
 - **Email:** [abdulrahman50ab@gmail.com](mailto:abdulrahman50ab@gmail.com)
